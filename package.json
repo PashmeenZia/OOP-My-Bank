@@ -1,0 +1,20 @@
+{
+  "name": "p11-oop-my-bank",
+  "description": "This project is a simulation of a banking system implemented using Object-Oriented Programming (OOP) principles in TypeScript.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  }
+}
